@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  Software Engineer Intern at Crest Data System | Final Year CS Student at Nirma University
+  Previous Software Engineer Intern at Crest Data System | Final Year CS Student at Nirma University
 </h3>
 
 <div align="center">
@@ -122,20 +122,8 @@ const meetGoti = {
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/meetgoti07)
 
 <img src="https://leetcard.jacoblin.cool/meetgoti07?ext=contest&theme=dark" alt="LeetCode Stats" />
-
+&nbsp;&nbsp;&nbsp;
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=meetgoti07&theme=github_dark" alt="Codeforces Stats" />
-
-</div>
-
-<div align="left">
-### Key Achievements
-- **Google Student Ambassador 2025**
-- **Perplexity Campus Partner 2025** 
-- **Level-2 Freelancer on Fiverr** (4.8/5 rating, 100+ orders, 56 clients)
-- **National Hackathon Winner** - HackNUthon 6.0 (1,200+ participants)
-- **National Runner-up** - Odoo Hackathon 2025 (19,000+ participants)
-- **ACPC Rank 225** - 95% in Higher Secondary (PCM)
-- **Scholarship Holder** at Nirma University
 
 </div>
 
@@ -144,14 +132,26 @@ const meetGoti = {
 ## Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetgoti07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetgoti07@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://meetgoti.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/meetgoti07/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/meetgoti07)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/meetgoti07)
-
+  <a href="https://www.linkedin.com/in/meetgoti07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 4px;" />
+  </a>
+  <a href="mailto:meetgoti07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 4px;" />
+  </a>
+  <a href="https://meetgoti.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin: 4px;" />
+  </a>
+  <a href="https://leetcode.com/u/meetgoti07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin: 4px;" />
+  </a>
+  <a href="https://codeforces.com/profile/meetgoti07">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin: 4px;" />
+  </a>
+  <a href="https://www.fiverr.com/meetgoti07">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" style="margin: 4px;" />
+  </a>
 </div>
+
+
 
 ---
