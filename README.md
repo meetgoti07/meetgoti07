@@ -1,11 +1,11 @@
-# 💫 Meet Goti's GitHub Profile
+# Meet Goti's GitHub Profile
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meet+Goti+%F0%9F%91%8B;Software+Engineer+%26+AI+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
-  🚀 Software Engineer Intern at Crest Data System | Final Year CS Student at Nirma University
+  Software Engineer Intern at Crest Data System | Final Year CS Student at Nirma University
 </h3>
 
 <div align="center">
@@ -15,12 +15,12 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const meetGoti = {
   name: "Meet Goti",
-  location: "Ahmedabad, Gujarat 📍",
+  location: "Ahmedabad, Gujarat",
   education: "B.Tech CSE @ Nirma University (CGPA: 8.18)",
   role: "Software Engineer Intern @ Crest Data System",
   currentFocus: "AI Automation & Full-Stack Development",
@@ -31,13 +31,12 @@ const meetGoti = {
     hackathons: ["Winner - HackNUthon 6.0", "Runner-up - Odoo Hackathon 2025"],
     freelancing: "Level-2 on Fiverr (4.8/5 rating, 100+ orders)"
   },
-  motto: "Building scalable solutions with AI-powered innovation! 🚀"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -86,12 +85,10 @@ const meetGoti = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   
-### 🏆 Award-Winning Projects
-
 | Project | Description | Tech Stack | Achievement |
 |---------|-------------|------------|-------------|
 | **[Playdoo](https://github.com/meetgoti07/playdoo)** | Production-ready sports venue booking platform | Next.js, PostgreSQL, Redis, Stripe | 🥈 Runner-up (19K+ participants) |
@@ -102,15 +99,11 @@ const meetGoti = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meetgoti07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetgoti07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetgoti07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -119,11 +112,11 @@ const meetGoti = {
 
 ---
 
-## 💻 Coding Profiles & Achievements
+## Coding Profiles & Achievements
 
-<div align="center">
+<div align="left">
   
-### 🏅 Competitive Programming
+### Competitive Programming
   
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/meetgoti07/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/meetgoti07)
@@ -132,32 +125,20 @@ const meetGoti = {
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=meetgoti07&theme=github_dark" alt="Codeforces Stats" />
 
-### 🎯 Key Achievements
-- 🎓 **Google Student Ambassador 2025**
-- 🤖 **Perplexity Campus Partner 2025** 
-- 💼 **Level-2 Freelancer on Fiverr** (4.8/5 rating, 100+ orders, 56 clients)
-- 🏆 **National Hackathon Winner** - HackNUthon 6.0 (1,200+ participants)
-- 🥈 **National Runner-up** - Odoo Hackathon 2025 (19,000+ participants)
-- 🎯 **ACPC Rank 225** - 95% in Higher Secondary (PCM)
-- 🎓 **Scholarship Holder** at Nirma University
+### Key Achievements
+- **Google Student Ambassador 2025**
+- **Perplexity Campus Partner 2025** 
+- **Level-2 Freelancer on Fiverr** (4.8/5 rating, 100+ orders, 56 clients)
+- **National Hackathon Winner** - HackNUthon 6.0 (1,200+ participants)
+- **National Runner-up** - Odoo Hackathon 2025 (19,000+ participants)
+- **ACPC Rank 225** - 95% in Higher Secondary (PCM)
+- **Scholarship Holder** at Nirma University
 
 </div>
 
 ---
 
-## 🌟 Professional Experience
-
-### 🚀 Software Engineer Intern | Crest Data System
-*May 2025 – July 2025 | Ahmedabad*
-
-- **AI Automation System**: Designed & deployed a 7-agent AI automation system reducing POC feasibility testing from 3 weeks to 1 week
-- **End-to-End Framework**: Developed automation framework for API documentation ingestion, code generation, and mock server deployment
-- **Multi-Agent Architecture**: Implemented MCP Server with QA framework improving code accuracy across testing cycles
-- **Tech Stack**: Google ADK, Streamlit, Python, FAISS, LangGraph, LiteLLM
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -174,13 +155,9 @@ const meetGoti = {
 
 <div align="center">
 
-### 🎯 Current Focus
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Automation+Systems;Exploring+Multi-Agent+Architectures;Contributing+to+Open+Source+Projects;Learning+Advanced+System+Design;Preparing+for+SDE+Roles+at+Top+Companies" alt="Current Focus" />
 
 ### 💡 Fun Fact
-*I've reduced development time from weeks to days using AI automation - imagine what we can build together! 🚀*
-
+*I've reduced development time from weeks to days using AI automation - imagine what we can build together! *
 </div>
 
 ---
