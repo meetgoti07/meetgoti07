@@ -114,7 +114,7 @@ const meetGoti = {
 
 ## Coding Profiles & Achievements
 
-<div align="left">
+<div align="center" style="padding:4px;">
   
 ### Competitive Programming
   
@@ -125,6 +125,9 @@ const meetGoti = {
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=meetgoti07&theme=github_dark" alt="Codeforces Stats" />
 
+</div>
+
+<div align="left">
 ### Key Achievements
 - **Google Student Ambassador 2025**
 - **Perplexity Campus Partner 2025** 
@@ -152,16 +155,3 @@ const meetGoti = {
 </div>
 
 ---
-
-<div align="center">
-
-
-### 💡 Fun Fact
-*I've reduced development time from weeks to days using AI automation - imagine what we can build together! *
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
