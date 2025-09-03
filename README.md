@@ -141,12 +141,6 @@ const meetGoti = {
   <a href="https://meetgoti.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin: 4px;" />
   </a>
-  <a href="https://leetcode.com/u/meetgoti07/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin: 4px;" />
-  </a>
-  <a href="https://codeforces.com/profile/meetgoti07">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin: 4px;" />
-  </a>
   <a href="https://www.fiverr.com/meetgoti07">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" style="margin: 4px;" />
   </a>
