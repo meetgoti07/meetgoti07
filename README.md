@@ -132,13 +132,13 @@ const meetGoti = {
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/meetgoti07">
+  <a href="https://www.linkedin.com/in/meetgoti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 4px;" />
   </a>
   <a href="mailto:meetgoti07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 4px;" />
   </a>
-  <a href="https://meetgoti.dev">
+  <a href="https://meetgoti.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin: 4px;" />
   </a>
   <a href="https://leetcode.com/u/meetgoti07/">
