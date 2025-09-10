@@ -1,9 +1,5 @@
 # Meet Goti's GitHub Profile
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meet+Goti+%F0%9F%91%8B;Software+Engineer+%26+AI+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-</div>
-
 <h3 align="center">
   Previous Software Engineer Intern at Crest Data System | Final Year CS Student at Nirma University
 </h3>
