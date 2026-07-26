@@ -57,7 +57,7 @@
 |---------|-------------|------------|-------------|
 | **[Playdoo](https://github.com/meetgoti07/playdoo)** | Production-ready sports venue booking platform | Next.js, PostgreSQL, Redis, Stripe | 🥈 Runner-up (19K+ participants) |
 | **[FraudShield](https://github.com/meetgoti07/fraudshield)** | Real-time AI fraud detection system | Next.js, XGBoost, FastAPI | 🥇 Winner - HackNUThon 6.0 |
-| **[Sentique](https://github.com/meetgoti07/sentique)** | AI-powered feedback analytics platform | Django, React, BERT, LSTM | 92% accuracy, 100K+ reviews |
+| **[Sentique](https://bitbucket.org/sentique/sentique/src/main)** | AI-powered feedback analytics platform | Django, React, BERT, LSTM | 92% accuracy, 100K+ reviews |
 
 </div>
 
@@ -72,7 +72,7 @@
   <a href="mailto:meetgoti07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 4px;" />
   </a>
-  <a href="https://meetgoti.com">
+  <a href="https://meetgoti.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin: 4px;" />
   </a>
   <a href="https://www.fiverr.com/meetgoti07">
